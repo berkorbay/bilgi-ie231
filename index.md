@@ -1,13 +1,19 @@
 This is the page for complete classroom materials for my lecture IE 231 - Introduction to Probability during Spring 2017 semester at Bilgi University.
 
+# Week 3 (current week)
+
++ Lecture Notes 3: Probability, Conditional Probability and Bayes’ Rule ([html](files/Lecture_03.html) \| [pdf](files/Lecture_03.pdf))
+
+-----
+
 # Week 1
 
-+ Lecture Notes 1: Initial Concepts of Probability ([pdf](files/Lecture_01.html) \| [html](files/Lecture_01.pdf))
++ Lecture Notes 1: Initial Concepts of Probability ([html](files/Lecture_01.html) \| [pdf](files/Lecture_01.pdf))
 
 # Week 2
 
-+ Lecture Notes 2: Some Problems about Basic Probability and Counting ([pdf](files/Lecture_02.html) \| [html](files/Lecture_02.pdf))
-+ In Class Activity Week 2 ([pdf](files/In_Class_Activity_w2.html) \| [html](files/In_Class_Activity_w2.pdf))
-+ In Class Activity Week 2 **Solutions** ([pdf](files/In_Class_Activity_w2_sol.html) \| [html](files/In_Class_Activity_w2_sol.pdf))
++ Lecture Notes 2: Some Problems about Basic Probability and Counting ([html](files/Lecture_02.html) \| [pdf](files/Lecture_02.pdf))
++ In Class Activity Week 2 ([html](files/In_Class_Activity_w2.html) \| [pdf](files/In_Class_Activity_w2.pdf))
++ In Class Activity Week 2 **Solutions** ([html](files/In_Class_Activity_w2_sol.html) \| [pdf](files/In_Class_Activity_w2_sol.pdf))
 + Quick Introduction to R Markdown ([html](files/QuickIntroRMarkdown.html))
 + Instructions about R Markdown ([pdf](files/rmarkdown_instructions.pdf))
