@@ -3,7 +3,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 5
 
 + Lecture Notes 5: Random Variables and Probability Distributions ([html](files/Lecture_05.html) \| [pdf](files/Lecture_05.pdf))
-
++ Very good cheat sheet on probability. ([link](https://datastories.quora.com/The-Only-Probability-Cheatsheet-Youll-Ever-Need))
 -----
 
 # Week 1
