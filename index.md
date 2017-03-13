@@ -1,8 +1,8 @@
 This is the page for complete classroom materials for my lecture IE 231 - Introduction to Probability during Spring 2017 semester at Bilgi University.
 
-# Week 4
+# Week 5
 
-+ In Class Activity Week 4 ([html](files/In_Class_Activity_w4.pdf) \| [pdf](files/In_Class_Activity_w4.pdf))
++ Lecture Notes 5: Random Variables and Probability Distributions ([html](files/Lecture_05.html) \| [pdf](files/Lecture_05.pdf))
 
 -----
 
@@ -21,3 +21,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 3
 
 + Lecture Notes 3: Probability, Conditional Probability and Bayes’ Rule ([html](files/Lecture_03.html) \| [pdf](files/Lecture_03.pdf))
+
+# Week 4
+
++ In Class Activity Week 4 ([html](files/In_Class_Activity_w4.pdf) \| [pdf](files/In_Class_Activity_w4.pdf))
