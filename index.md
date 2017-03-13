@@ -4,6 +4,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 + Lecture Notes 5: Random Variables and Probability Distributions ([html](files/Lecture_05.html) \| [pdf](files/Lecture_05.pdf))
 + Very good cheat sheet on probability. ([link](https://datastories.quora.com/The-Only-Probability-Cheatsheet-Youll-Ever-Need))
+
 -----
 
 # Week 1
@@ -24,5 +25,6 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 # Week 4
 
++ Lecture Notes 4: Example Problems on Conditional Probability ([html](files/Lecture_04.html) \| [pdf](files/Lecture_04.pdf))
 + In Class Activity Week 4 ([html](files/In_Class_Activity_w4.pdf) \| [pdf](files/In_Class_Activity_w4.pdf))
 + In Class Activity Week 4 **Solutions** ([html](files/In_Class_Activity_w4_sol.html) \| [pdf](files/In_Class_Activity_w4_sol.pdf))
