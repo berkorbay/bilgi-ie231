@@ -25,3 +25,4 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 4
 
 + In Class Activity Week 4 ([html](files/In_Class_Activity_w4.pdf) \| [pdf](files/In_Class_Activity_w4.pdf))
++ In Class Activity Week 4 **Solutions** ([html](files/In_Class_Activity_w4_sol.html) \| [pdf](files/In_Class_Activity_w4_sol.pdf))
