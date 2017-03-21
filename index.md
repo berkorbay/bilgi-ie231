@@ -33,3 +33,5 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 + Lecture Notes 5: Random Variables and Probability Distributions ([html](files/Lecture_05.html) \| [pdf](files/Lecture_05.pdf))
 + Very good cheat sheet on probability. ([link](https://datastories.quora.com/The-Only-Probability-Cheatsheet-Youll-Ever-Need))
++ Quiz 1 ([html](files/Quiz_01.pdf) \| [pdf](files/Quiz_01.pdf))
++ Quiz 1 **Solutions** ([html](files/Quiz_01_sol.html) \| [pdf](files/Quiz_01_sol.pdf))
