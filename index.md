@@ -3,7 +3,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 6
 
 + In Class Activity Week 6 ([html](files/In_Class_Activity_w6.pdf) \| [pdf](files/In_Class_Activity_w6.pdf))
-
++ Homework_01 ([html](files/Homework_01.pdf) \| [pdf](files/Homework_01.pdf))
 
 -----
 
