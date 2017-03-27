@@ -1,9 +1,10 @@
 This is the page for complete classroom materials for my lecture IE 231 - Introduction to Probability during Spring 2017 semester at Bilgi University.
 
-# Week 6
 
-+ In Class Activity Week 6 ([html](files/In_Class_Activity_w6.pdf) \| [pdf](files/In_Class_Activity_w6.pdf))
-+ Homework_01 ([html](files/Homework_01.pdf) \| [pdf](files/Homework_01.pdf))
+# Week 7
+
++ Lecture Notes 7: Poisson Distribution ([html](files/Lecture_07.html) \| [pdf](files/Lecture_07.pdf))
+
 
 -----
 
@@ -35,3 +36,9 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 + Very good cheat sheet on probability. ([link](https://datastories.quora.com/The-Only-Probability-Cheatsheet-Youll-Ever-Need))
 + Quiz 1 ([html](files/Quiz_01.pdf) \| [pdf](files/Quiz_01.pdf))
 + Quiz 1 **Solutions** ([html](files/Quiz_01_sol.html) \| [pdf](files/Quiz_01_sol.pdf))
+
+# Week 6
+
++ In Class Activity Week 6 ([html](files/In_Class_Activity_w6.pdf) \| [pdf](files/In_Class_Activity_w6.pdf))
++ In Class Activity Week 6 **Solutions** ([html](files/In_Class_Activity_w6_sol.html) \| [pdf](files/In_Class_Activity_w6_sol.pdf))
++ Homework_01 ([html](files/Homework_01.pdf) \| [pdf](files/Homework_01.pdf))
