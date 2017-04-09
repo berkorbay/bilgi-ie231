@@ -1,9 +1,9 @@
 This is the page for complete classroom materials for my lecture IE 231 - Introduction to Probability during Spring 2017 semester at Bilgi University.
 
 
-# Week 7
+# Week 9
 
-+ Lecture Notes 7: Poisson Distribution ([html](files/Lecture_07.html) \| [pdf](files/Lecture_07.pdf))
++ Lecture Notes 9: Important Continuous Distributions ([html](files/Lecture_09.html) \| [pdf](files/Lecture_09.pdf))
 
 
 -----
@@ -42,3 +42,11 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 + In Class Activity Week 6 ([html](files/In_Class_Activity_w6.pdf) \| [pdf](files/In_Class_Activity_w6.pdf))
 + In Class Activity Week 6 **Solutions** ([html](files/In_Class_Activity_w6_sol.html) \| [pdf](files/In_Class_Activity_w6_sol.pdf))
 + Homework_01 ([html](files/Homework_01.pdf) \| [pdf](files/Homework_01.pdf))
+
+# Week 7
+
++ Lecture Notes 7: Poisson Distribution ([html](files/Lecture_07.html) \| [pdf](files/Lecture_07.pdf))
+
+# Week 8
+
++ Midterm
