@@ -1,10 +1,8 @@
 This is the page for complete classroom materials for my lecture IE 231 - Introduction to Probability during Spring 2017 semester at Bilgi University.
 
+# Week 10
 
-# Week 9
-
-+ Lecture Notes 9: Important Continuous Distributions ([html](files/Lecture_09.html) \| [pdf](files/Lecture_09.pdf))
-
++ In Class Activity Week 10 ([html](files/In_Class_Activity_w10.pdf) \| [pdf](files/In_Class_Activity_w10.pdf))
 
 -----
 
@@ -50,3 +48,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 8
 
 + Midterm
+
+# Week 9
+
++ Lecture Notes 9: Important Continuous Distributions ([html](files/Lecture_09.html) \| [pdf](files/Lecture_09.pdf))
