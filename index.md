@@ -56,3 +56,4 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 10
 
 + In Class Activity Week 10 ([html](files/In_Class_Activity_w10.pdf) \| [pdf](files/In_Class_Activity_w10.pdf))
++ In Class Activity Week 10 **Solutions** ([html](files/In_Class_Activity_w10_sol.html) \| [pdf](files/In_Class_Activity_w10_sol.pdf))
