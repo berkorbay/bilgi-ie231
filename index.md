@@ -1,8 +1,8 @@
 This is the page for complete classroom materials for my lecture IE 231 - Introduction to Probability during Spring 2017 semester at Bilgi University.
 
-# Week 11
+# Week 12
 
-+ Lecture Notes 11: Important Continuous Distributions ([html](files/Lecture_11.html) \| [pdf](files/Lecture_11.pdf))
++ Lecture Notes 12: R Exercise - Sentiment Analysis Using Twitter ([html](files/Lecture_12.html) \| [pdf](files/Lecture_12.pdf) | [data file](files/ethereum_tweets.RData))
 
 -----
 
@@ -57,3 +57,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 + In Class Activity Week 10 ([html](files/In_Class_Activity_w10.pdf) \| [pdf](files/In_Class_Activity_w10.pdf))
 + In Class Activity Week 10 **Solutions** ([html](files/In_Class_Activity_w10_sol.html) \| [pdf](files/In_Class_Activity_w10_sol.pdf))
+
+# Week 11
+
++ Lecture Notes 11: Important Continuous Distributions ([html](files/Lecture_11.html) \| [pdf](files/Lecture_11.pdf))
