@@ -2,7 +2,9 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 # Week 12
 
-+ Lecture Notes 12: R Exercise - Sentiment Analysis Using Twitter ([html](files/Lecture_12.html) \| [pdf](files/Lecture_12.pdf) | [data file](files/ethereum_tweets.RData))
++ Lecture Notes 12: R Exercise - Sentiment Analysis Using Twitter ([html](files/Lecture_12.html) \| [pdf](files/Lecture_12.pdf) \| [data file](files/ethereum_tweets.RData))
+    + Example Student Work 1 (Mustafa Gökhan Yıldız – Buğra Yüksel) ([html](files/example_1.html))
+    + Example Student Work 2 (Batuhan Uysal, Alexander Sayek, Mustafa Burak Dost) ([html](files/example_2.html))
 
 -----
 
