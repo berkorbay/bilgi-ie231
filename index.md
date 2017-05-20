@@ -1,10 +1,6 @@
 This is the page for complete classroom materials for my lecture IE 231 - Introduction to Probability during Spring 2017 semester at Bilgi University.
 
-# Week 12
-
-+ Lecture Notes 12: R Exercise - Sentiment Analysis Using Twitter ([html](files/Lecture_12.html) \| [pdf](files/Lecture_12.pdf) \| [data file](files/ethereum_tweets.RData))
-    + Example Student Work 1 (Mustafa Gökhan Yıldız – Buğra Yüksel) ([html](files/example_1.html))
-    + Example Student Work 2 (Batuhan Uysal, Alexander Sayek, Mustafa Burak Dost) ([html](files/example_2.html))
+# Normal Distribution Tutorial ([pdf](files/normal_distribution_tutorial.pdf))
 
 -----
 
@@ -63,3 +59,9 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 11
 
 + Lecture Notes 11: Important Continuous Distributions ([html](files/Lecture_11.html) \| [pdf](files/Lecture_11.pdf))
+
+# Week 12
+
++ Lecture Notes 12: R Exercise - Sentiment Analysis Using Twitter ([html](files/Lecture_12.html) \| [pdf](files/Lecture_12.pdf) \| [data file](files/ethereum_tweets.RData))
+    + Example Student Work 1 (Mustafa Gökhan Yıldız – Buğra Yüksel) ([html](files/example_1.html))
+    + Example Student Work 2 (Batuhan Uysal, Alexander Sayek, Mustafa Burak Dost) ([html](files/example_2.html))
