@@ -1,4 +1,4 @@
-This is the page for complete classroom materials for my lecture IE 231 - Introduction to Probability during FALL 2017 semester at Bilgi University.
+This is the page for complete classroom materials for my lecture IE 231 - Introduction to Probability during FALL 2017 semester at Bilgi University. You can reach course archive from [here](https://berkorbay.github.io/bilgi-ie231/S17/).
 
 -----
 
