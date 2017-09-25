@@ -6,6 +6,10 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 + Lecture Notes 1: Initial Concepts of Probability ([html](files/Lecture_01.html) \| [pdf](files/Lecture_01.pdf))
 
++ Quick Introduction to RMarkdown ([html](files/QuickIntroRMarkdown.html))
+
++ RMarkdown Installation Instructions ([pdf](files/rmarkdown_instructions.pdf))
+
 # Week 2 (Oct. 3)
 
 # Week 3 (Oct. 10)
@@ -20,7 +24,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 # Week 8 (Nov. 14)
 
-    + **Midterm Week**
++ **Midterm Week**
 
 # Week 9 (Nov. 21)
 
