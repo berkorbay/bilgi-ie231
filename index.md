@@ -6,7 +6,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 + Lecture Notes 2: Some Problems about Basic Probability and Counting ([html](files/Lecture_02.html) \| [pdf](files/Lecture_02.pdf))
 + Homework and In-Class Activity Submission Guidelines ([html](files/guidelines.html) \| [pdf](files/guidelines.pdf))
-+ Rmd examples for your homeworks ([Click](files/rmd_examples/))
++ Rmd examples for your homeworks ([Click](https://github.com/berkorbay/bilgi-ie231/tree/master/files/rmd_examples))
 
 # Week 1 (Sep. 26)
 
@@ -17,7 +17,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 + RMarkdown Installation Instructions ([pdf](files/rmarkdown_instructions.pdf))
 
 
-#Next
+# Next
 
 ## Week 3 (Oct. 10)
 
