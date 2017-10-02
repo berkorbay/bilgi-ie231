@@ -1,0 +1,74 @@
+---
+title: "Some Problems about Basic Probability and Counting"
+author: IE231 - Lecture Notes 2
+date: Oct 3, 2017
+---
+
+These problems are to enhance the theoretical learning. Solutions are provided under the questions. There might be R codes to replicate what is done on paper.
+
+```{r,echo=FALSE,eval=FALSE}
+#If echo=FALSE, it means don't show this block
+#If eval=FALSE, it means don't run this R code
+rmarkdown::render("~/Dropbox/Courses_given/Bilgi_IE_231_2017F/Lectures/Lecture_02/Lecture_02.Rmd",output_format="html_document")
+rmarkdown::render("~/Dropbox/Courses_given/Bilgi_IE_231_2017F/Lectures/Lecture_02/Lecture_02.Rmd",output_format="pdf_document")
+```
+
+1. Suppose I toss a coin, roll a die and draw a card from the deck. How many different number of outcomes are there for this experiment?
+
+    Solution: Multiplication rule. $n_1n_2n_3 = 2.6.52 = 624$.
+
+```{r}
+n1 <- 2 #A coin toss has two potential outcomes.
+n2 <- 6 #A die roll has six potential outcomes.
+n3 <- 52 #A card draw has 52 potential outcomes.
+```
+
+2. In how many ways can I order the Teletubbies? (Tinky-Winky, Dipsy, Laa Laa and Po) For instance, (TW - Dipsy - Po - Laa Laa) is an ordering and (Dipsy - Po - TW - Laa Laa) is another.
+
+    Solution: Permutation rule. $n! = 4! = 24$
+
+```{r}
+n_tubbies <- 4 #Number of teletubbies
+factorial(n_tubbies) #By permtuation it is 4!
+```
+
+3. I want to reorder the letters of the phrase "GOODGRADES". In how many ways can I do it?.
+
+    Solution: Remember the permutation rule with identical items. There are two "G"s, two "D"s and two "O"s. Remember the formula $\dfrac{n!}{n_1!n_2!\dots n_k!}$. So the result should be $\dfrac{10!}{2!2!2!1!1!1!1!} = 453600$.
+
+```{r}
+the_phrase <- "GOODGRADES"
+freq_table <- table(strsplit(the_phrase,split="")[[1]]) #Let's create a frequency table first
+print(freq_table) #Let's show it
+the_dividend <- factorial(nchar(the_phrase)) #Dividend part is 10 characters so 10!
+the_divisor <- prod(factorial(freq_table)) #Get multiplication of factorials for the divisor
+the_dividend/the_divisor
+```
+
+4. I want to make two letter words from "GRADES" such as "GA", "ED" or "DE" (it doesn't have to make sense). Find the number of permutations.
+
+    Solution: Permutation of $r$ items from $n$ items is $\dfrac{n!}{(n-r)!}$. So the result is $\dfrac{6!}{4!} = 30$.
+
+```{r}
+the_phrase<-"GRADES"
+letter_length <- 2 #We want two letter words
+#Since all letters are different no need for special permutation.
+factorial(nchar(the_phrase))/factorial(nchar(the_phrase)-letter_length)
+```
+
+5. Suppose I am drawing a hand of 5 cards from a playing deck of 52 cards. How many different hands there can be? (Each card is different. See the bottom of this document for details.)
+
+    Solution: Since in a hand you do not care for the order, it is the combination $\binom{52}{5} = \dfrac{52!}{(52-5)!5! = 2598960}$.
+
+```{r}
+#Combination (a.k.a binomial coefficient) function is choose
+choose(52,5)
+```
+
+### Coins, Dice and Cards
+
+When questions mention about coins, dice and cards they are commonly referred items. Nevertheless, you can refer to .
+
++ Coin tosses: Two possible outcomes. Heads or Tails.
++ Dice rolling: Six possible outcomes. 1-2-3-4-5-6.
++ Card drawing: 52 possible outcomes. There are 4 types (clubs, diamonds, spades and hearts) and 13 ranks for each type. (A)ce - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - (J)ack - (Q)ueen - (K)ing.

@@ -5,7 +5,8 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 2 (Oct. 3)
 
 + Lecture Notes 2: Some Problems about Basic Probability and Counting ([html](files/Lecture_02.html) \| [pdf](files/Lecture_02.pdf))
-
++ Homework and In-Class Activity Submission Guidelines ([html](files/guidelines.html) \| [pdf](files/guidelines.pdf))
++ Rmd examples for your homeworks ([Click](files/rmd_examples/))
 
 # Week 1 (Sep. 26)
 
