@@ -2,6 +2,11 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 -----
 
+## Week 3 (Oct. 10)
+
++ Lecture Notes 3: Probability, Conditional Probability and Bayes' Rule ([html](files/Lecture_03.html) \| [pdf](files/Lecture_03.pdf))
+
+
 # Week 2 (Oct. 3)
 
 + In Class Exercise Week 2 - Solutions ([html](files/In_Class_Activity_w2_sol.html) \| [pdf](files/In_Class_Activity_w2_sol.pdf))
@@ -21,7 +26,6 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 # Next
 
-## Week 3 (Oct. 10)
 
 ## Week 4 (Oct. 17)
 
