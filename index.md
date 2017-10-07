@@ -4,6 +4,8 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 # Week 2 (Oct. 3)
 
++ In Class Exercise Week 2 - Solutions ([html](files/In_Class_Activity_w2_sol.html) \| [pdf](files/In_Class_Activity_w2_sol.pdf))
++ In Class Exercise Week 2 ([html](files/In_Class_Activity_w2.html) \| [pdf](files/In_Class_Activity_w2.pdf))
 + Lecture Notes 2: Some Problems about Basic Probability and Counting ([html](files/Lecture_02.html) \| [pdf](files/Lecture_02.pdf))
 + Homework and In-Class Activity Submission Guidelines ([html](files/guidelines.html) \| [pdf](files/guidelines.pdf))
 + Rmd examples for your homeworks. ([Click](https://github.com/berkorbay/bilgi-ie231/tree/master/files/rmd_examples)) Instructions to download: Click on the files and Raw button next, then save.
