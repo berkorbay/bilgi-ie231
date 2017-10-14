@@ -5,6 +5,8 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 4 (Oct. 17)
 
 + Homework 1 Peer Review. See the instructions from [here](hw_peer_review.html).
++ Lecture Notes 4: Example Problems on Conditional Probability ([html](files/Lecture_04.html) \| [pdf](files/Lecture_04.pdf))
+
 
 # Week 3 (Oct. 10)
 
@@ -29,9 +31,6 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 
 # Next
-
-
-## Week 4 (Oct. 17)
 
 ## Week 5 (Oct. 24)
 
