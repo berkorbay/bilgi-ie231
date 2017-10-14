@@ -1,0 +1,56 @@
+---
+title: "Homework 1 - IE 231 Fall"
+author: "Group 5 - Hakan Balay - Duygu Aras - Mısra Şimşir - Şebnem Çilek - Fikret Gizem Keçeli"
+date: "05 10 2017"
+output: word_document
+---
+##Question 1:
+
+What is the probability of getting a sum 9 from two throws of a dice?
+
+Solution: nEvent/n1*n2 <- 4/36
+
+```{r}
+n1 <- 6 #die roll has six potential outcomes.
+n2 <- 6 #die roll has six potential outcomes.
+nEvent <- 4 #event of getting a sum which are (3,6) , (4,5) , (5,4) , (6,3).
+
+nEvent/prod(n1,n2)
+```
+
+##Question 2:
+
+A committee of 4 persons are to be formed from the club members consisting 20 men and 15 women. What is the probability of a committee consisting 2 men and 2 women is formed?
+
+Solution: Combination Rule!
+
+```{r}
+n_clubmembers <- 4 #number of club members
+n_comittee <- 4 #number of comittee which sould
+n_men <- 20 #number of men
+n_women <- 15 #number of women
+
+n_ss <- choose(35,4) #Number of sample space
+n_com <-choose(20,2) #Number of event of choosing 2 people from men
+n_cow <-choose(15,2) #Number of event of choosing 2 people from women
+
+prod(n_com,n_cow)/n_ss
+```
+
+##Question 3:
+
+A packet contains similar size of cards labeled as A,B,C,D and E. Three cards are picked up one by one at random and placed on the same order. What is the probability that the word formed by those letters is BAD?
+
+Solution: Factorial!
+
+```{r}
+the_phrase <- "ABCDE"
+freq_table <- table(strsplit(the_phrase,split="")[[1]]) #Creating a frequency table in order to control repeating letters
+print(freq_table) #Printing frequency table
+letter_length <- 3 #Number of letter words which we want create
+n_ss <- factorial(nchar(the_phrase))/factorial(nchar(the_phrase)-letter_length) #Number of sample space
+n_event <- 1 #Number of event which is "BAD"
+print(n_event) #Printing event
+print(n_ss) #Printing sample space
+n_event/n_ss
+```

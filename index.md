@@ -2,7 +2,11 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 -----
 
-## Week 3 (Oct. 10)
+# Week 4 (Oct. 17)
+
++ Homework 1 Peer Review. See the instructions from [here](hw_peer_review.html).
+
+# Week 3 (Oct. 10)
 
 + Lecture Notes 3: Probability, Conditional Probability and Bayes' Rule ([html](files/Lecture_03.html) \| [pdf](files/Lecture_03.pdf))
 
