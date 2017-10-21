@@ -9,6 +9,9 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 4 (Oct. 17)
 
 + Lecture Notes 4: Example Problems on Conditional Probability ([html](files/Lecture_04.html) \| [pdf](files/Lecture_04.pdf))
++ In Class Exercise Week 4 ([html](files/In_Class_Activity_w4.html) \| [pdf](files/In_Class_Activity_w4.pdf))
++ In Class Exercise Week 4 - Solutions ([html](files/In_Class_Activity_w4_sol.html) \| [pdf](files/In_Class_Activity_w4_sol.pdf))
+
 
 # Week 3 (Oct. 10)
 
