@@ -2,6 +2,23 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 -----
 
+## Week 8 (Nov. 14)
+
++ **Midterm Week**
+
+# Week 7 (Nov. 7)
+
++ Quiz 1
++ Poisson
++ A revisit of previous topics and Q&A
+
+# Week 6 (Oct. 31)
+
++ In Class Exercise Week 6 ([html](files/In_Class_Activity_w6.html) \| [pdf](files/In_Class_Activity_w6.pdf))
+
++ All Homework 1 submissions (valid Rmd files) in a single file for you to study from. ([html](files/Homework_1_Submissions.html) \| [pdf](files/Homework_1_Submissions.pdf))
++ All Homework 2 submissions (valid Rmd files) in a single file for you to study from. ([html](files/Homework_2_Submissions.html) \| [pdf](files/Homework_2_Submissions.pdf))
+
 # Week 5 (Oct. 24)
 
 + Lecture Notes 5: Example Problems on Conditional Probability ([html](files/Lecture_05.html) \| [pdf](files/Lecture_05.pdf))
@@ -37,13 +54,6 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 # Next
 
-## Week 6 (Oct. 31)
-
-## Week 7 (Nov. 7)
-
-## Week 8 (Nov. 14)
-
-+ **Midterm Week**
 
 ## Week 9 (Nov. 21)
 
