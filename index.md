@@ -2,15 +2,14 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 -----
 
-## Week 8 (Nov. 14)
+## Week 8 (Nov. 13)
 
-+ **Midterm Week**
++ Midterm on November 13, 15:00 @Santral S-ÇSM 402
 
 # Week 7 (Nov. 7)
 
++ Lecture Notes 7: Recap ([html](files/Lecture_07.html) \| [pdf](files/Lecture_07.pdf))
 + Quiz 1
-+ Poisson
-+ A revisit of previous topics and Q&A
 
 # Week 6 (Oct. 31)
 
