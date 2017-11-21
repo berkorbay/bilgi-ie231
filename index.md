@@ -2,7 +2,11 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 -----
 
-## Week 8 (Nov. 13)
+# Week 9 (Nov. 7)
+
++ Lecture Notes 8: Poisson Distribution ([html](files/Lecture_08.html) \| [pdf](files/Lecture_08.pdf))
+
+# Week 8 (Nov. 13)
 
 + Midterm on November 13, 15:00 @Santral S-ÇSM 402
 
