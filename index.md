@@ -2,13 +2,18 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 -----
 
+# Week 11 (Dec. 5)
+
++ Lecture Notes Week 11: Some Continuous Distribution ([html](files/Lecture_11.html) \| [pdf](files/Lecture_11.pdf))
++ z-table ([pdf](files/z-table.pdf))
+
 # Week 10 (Nov. 28)
 
 + In Class Exercise Week 10 ([html](files/In_Class_Activity_w10.html) \| [pdf](files/In_Class_Activity_w10.pdf))
 
 # Week 9 (Nov. 21)
 
-+ Lecture Notes 8: Poisson Distribution ([html](files/Lecture_08.html) \| [pdf](files/Lecture_08.pdf))
++ Lecture Notes 9: Poisson Distribution ([html](files/Lecture_08.html) \| [pdf](files/Lecture_08.pdf))
 
 # Week 8 (Nov. 13)
 
