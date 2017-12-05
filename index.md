@@ -5,6 +5,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 11 (Dec. 5)
 
 + Lecture Notes Week 11: Some Continuous Distribution ([html](files/Lecture_11.html) \| [pdf](files/Lecture_11.pdf))
++ Normal Distribution Tutorial: Reading the z-table ([pdf](files/normal_distribution_tutorial.pdf))
 + z-table ([pdf](files/z-table.pdf))
 
 # Week 10 (Nov. 28)
