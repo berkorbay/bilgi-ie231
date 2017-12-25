@@ -2,6 +2,17 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 -----
 
+## Week 14 (Dec. 26)
+
++ Final Recap ([html](files/Lecture_14.html) \| [pdf](files/Lecture_14.pdf))
++ Quiz 2
+
+## Week 13 (Dec. 19)
+
++ Rest of the continuous distributions ([html](files/Lecture_13.html) \| [pdf](files/Lecture_13.pdf))
++ Correlation, covariance
++ Conditional Expectation
+
 # Week 12 (Dec. 12)
 
 + In Class Exercise Week 12 ([html](files/In_Class_Activity_w12.html) \| [pdf](files/In_Class_Activity_w12.pdf))
@@ -72,14 +83,3 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 
 # Next
-
-## Week 13 (Dec. 19)
-
-+ Rest of the continuous distributions
-+ Correlation, covariance
-+ Conditional Expectation
-
-## Week 14 (Dec. 26)
-
-+ Final Recap
-+ Quiz 2
