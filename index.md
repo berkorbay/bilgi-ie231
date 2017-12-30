@@ -16,6 +16,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 12 (Dec. 12)
 
 + In Class Exercise Week 12 ([html](files/In_Class_Activity_w12.html) \| [pdf](files/In_Class_Activity_w12.pdf))
++ In Class Exercise Week 12 - Solutions ([html](files/In_Class_Activity_w12_sol.html) \| [pdf](files/In_Class_Activity_w12_sol.pdf))
 
 # Week 11 (Dec. 5)
 
