@@ -26,6 +26,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 # Week 10 (Nov. 28)
 
 + In Class Exercise Week 10 ([html](files/In_Class_Activity_w10.html) \| [pdf](files/In_Class_Activity_w10.pdf))
++ In Class Exercise Week 10 - Solutions ([html](files/In_Class_Activity_w10_sol.html) \| [pdf](files/In_Class_Activity_w10_sol.pdf))
 
 # Week 9 (Nov. 21)
 
@@ -45,6 +46,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 + Self Study 1 ([html](files/SelfStudy_01.html) \| [pdf](files/SelfStudy_01.pdf))
 
 + In Class Exercise Week 6 ([html](files/In_Class_Activity_w6.html) \| [pdf](files/In_Class_Activity_w6.pdf))
++ In Class Exercise Week 6 - Solutions ([pdf](files/In_Class_Activity_w6_sol.pdf))
 
 + All Homework 1 submissions (valid Rmd files) in a single file for you to study from. ([html](files/Homework_1_Submissions.html) \| [pdf](files/Homework_1_Submissions.pdf))
 + All Homework 2 submissions (valid Rmd files) in a single file for you to study from. ([html](files/Homework_2_Submissions.html) \| [pdf](files/Homework_2_Submissions.pdf))
