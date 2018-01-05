@@ -4,6 +4,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 ## Week 14 (Dec. 26)
 
++ Mini In-Class Solutions ([html](files/lecture_14_mini_in_class_solutions.html) \| [pdf](files/lecture_14_mini_in_class_solutions.pdf))
 + Final Recap ([html](files/Lecture_14.html) \| [pdf](files/Lecture_14.pdf))
 + Quiz 2
 
