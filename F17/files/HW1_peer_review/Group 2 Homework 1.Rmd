@@ -1,0 +1,36 @@
+---
+title: "Week2submission"
+author: "Group2- Utku Özer Coşkun-Dilara Bennani Ziatni-Ege Pekseren-Ege Ebiller"
+date: "5 Ekim 2017"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Question1
+1)basketball team has 12 players. A photo will be taken after this team becomes champion. How many different ways can this team be ordered?
+Solution: Permutation rule. $n! = 12! = 479001600$
+
+```{r}
+n_players <- 12 #Number of teletubbies
+factorial(n_players) #By permtuation it is 12!
+```
+##Question2
+2)We want to reorder the letters of the phrase "KUYRUKSALLAYANGİLLER". In how many ways can we do it?
+```{r}
+the_phrase <- "KUYRUKSALLAYANGİLLER"
+freq_table <- table(strsplit(the_phrase,split="")[[1]]) #Let's create a frequency table first
+print(freq_table) #Let's show it
+the_dividend <- factorial(nchar(the_phrase)) #Dividend part is 20 characters so 20!
+the_divisor <- prod(factorial(freq_table)) #Get multiplication of factorials for the divisor
+the_dividend/the_divisor
+```
+##Question3
+3)There are 40 seats on an airplane. 6 are business seats. if i want to get 3 seats economically. How many different ways can I choose?
+
+```{r}
+#Combination function is choose for 3 seats in 34 seats.
+choose(34,3)
+```
