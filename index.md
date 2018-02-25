@@ -1,5 +1,10 @@
 This is the page for complete classroom materials for my lecture IE 231 - Introduction to Probability during 2017-18 Spring semester at Bilgi University. Course Archive: [2016-17 Spring](https://berkorbay.github.io/bilgi-ie231/S16/), and [2017-18 Fall](https://berkorbay.github.io/bilgi-ie231/F17/).
 
+This course benefits from DataCamp for the Classroom program. See details [here](https://www.datacamp.com/groups/education).
+
+# Week 2 (Feb. 27)
+
++ Lecture Notes 2: Some Problems about Basic Probability and Counting ([html](files/Lecture_02.html) \| [pdf](files/Lecture_02.pdf))
 
 # Week 1 (Feb. 20)
 
