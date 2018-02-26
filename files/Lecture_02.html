@@ -325,13 +325,13 @@ factorial(n_tubbies) #By permtuation it is 4!</code></pre>
 <li><p>I want to reorder the letters of the phrase “GOODGRADES”. In how many ways can I do it?.</p>
 <p>Solution: Remember the permutation rule with identical items. There are two “G”s, two “D”s and two “O”s. Remember the formula <span class="math inline">\(\dfrac{n!}{n_1!n_2!\dots n_k!}\)</span>. So the result should be <span class="math inline">\(\dfrac{10!}{2!2!2!1!1!1!1!} = 453600\)</span>.</p>
 <pre class="r"><code>the_phrase &lt;- &quot;GOODGRADES&quot;
-freq_table &lt;- table(strsplit(the_phrase,split=&quot;&quot;)[[1]]) #Let's create a frequency table first
-print(freq_table) #Let's show it</code></pre>
+freq_table &lt;- table(strsplit(the_phrase, split = &quot;&quot;)[[1]])  #Let's create a frequency table first
+print(freq_table)  #Let's show it</code></pre>
 <pre><code>## 
 ## A D E G O R S 
 ## 1 2 1 2 2 1 1</code></pre>
-<pre class="r"><code>the_dividend &lt;- factorial(nchar(the_phrase)) #Dividend part is 10 characters so 10!
-the_divisor &lt;- prod(factorial(freq_table)) #Get multiplication of factorials for the divisor
+<pre class="r"><code>the_dividend &lt;- factorial(nchar(the_phrase))  #Dividend part is 10 characters so 10!
+the_divisor &lt;- prod(factorial(freq_table))  #Get multiplication of factorials for the divisor
 the_dividend/the_divisor</code></pre>
 <pre><code>## [1] 453600</code></pre></li>
 <li><p>I want to make two letter words from “GRADES” such as “GA”, “ED” or “DE” (it doesn’t have to make sense). Find the number of permutations.</p>
@@ -342,7 +342,7 @@ letter_length &lt;- 2 #We want two letter words
 factorial(nchar(the_phrase))/factorial(nchar(the_phrase)-letter_length)</code></pre>
 <pre><code>## [1] 30</code></pre></li>
 <li><p>Suppose I am drawing a hand of 5 cards from a playing deck of 52 cards. How many different hands there can be? (Each card is different. See the bottom of this document for details.)</p>
-<p>Solution: Since in a hand you do not care for the order, it is the combination <span class="math inline">\(\binom{52}{5} = \dfrac{52!}{(52-5)!5! = 2598960}\)</span>.</p>
+<p>Solution: Since in a hand you do not care for the order, it is the combination <span class="math inline">\(\binom{52}{5} = \dfrac{52!}{(52-5)!5!} = 2598960\)</span>.</p>
 <pre class="r"><code>#Combination (a.k.a binomial coefficient) function is choose
 choose(52,5)</code></pre>
 <pre><code>## [1] 2598960</code></pre></li>

@@ -5,6 +5,7 @@ This course benefits from DataCamp for the Classroom program. See details [here]
 # Week 2 (Feb. 27)
 
 + Lecture Notes 2: Some Problems about Basic Probability and Counting ([html](files/Lecture_02.html) \| [pdf](files/Lecture_02.pdf))
++ In Class Activity Week 2 ([html](files/In_Class_Activity_w2.html) \| [pdf](files/In_Class_Activity_w2.pdf))
 
 # Week 1 (Feb. 20)
 
