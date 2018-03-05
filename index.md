@@ -2,6 +2,10 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 This course benefits from DataCamp for the Classroom program. See details [here](https://www.datacamp.com/groups/education).
 
+# Week 3 (Mar. 6)
+
++ Lecture Notes 3: Probability, Conditional Probability and Bayes' Rule ([html](files/Lecture_03.html) \| [pdf](files/Lecture_03.pdf))
+
 # Week 2 (Feb. 27)
 
 + Lecture Notes 2: Some Problems about Basic Probability and Counting ([html](files/Lecture_02.html) \| [pdf](files/Lecture_02.pdf))
