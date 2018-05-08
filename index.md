@@ -2,9 +2,11 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 
 This course benefits from DataCamp for the Classroom program. See details [here](https://www.datacamp.com/groups/education).
 
++ z-table ([pdf](files/z-table.pdf))
+
 #NEWS
 
-Check the [Book of Prob](http://berkorbay.github.io/book-of-prob/) 
+Check the [Book of Prob](http://berkorbay.github.io/book-of-prob/)
 
 # Week 4 (Mar. 13)
 
