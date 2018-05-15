@@ -3,6 +3,7 @@ This is the page for complete classroom materials for my lecture IE 231 - Introd
 This course benefits from DataCamp for the Classroom program. See details [here](https://www.datacamp.com/groups/education).
 
 + z-table ([pdf](files/z-table.pdf))
++ Final Recap ([pdf](files/final_recap.pdf) \| [html](files/final_recap.html))
 
 #NEWS
 
